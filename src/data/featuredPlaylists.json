@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "collaborative": false,
+      "description": "Voces de todo tipo, de todos los géneros, de todas las épocas y de una sola latitud: Colombia. Foto: Pitizion",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSWHOzidsSnO",
+      "id": "37i9dQZF1DWSWHOzidsSnO",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000003adc9a8dae6a06b61de1e9477",
+          "width": null
+        }
+      ],
+      "name": "Las Colombianas",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTYwNzEyMTc5NSwwMDAwMDAxZTAwMDAwMTc2MmZlYzc5ODUwMDAwMDE3NGZmYmNlNWRj",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSWHOzidsSnO/tracks",
+        "total": 60
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWSWHOzidsSnO"
+    },
+    {
+      "collaborative": false,
+      "description": "Los mejores éxitos de hoy en Colombia. Foto: Karol G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbvPjXfc8G9S"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbvPjXfc8G9S",
+      "id": "37i9dQZF1DXbvPjXfc8G9S",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f000000032b25adb24e8c5224b6d47e35",
+          "width": null
+        }
+      ],
+      "name": "Éxitos Colombia",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTYxMDY1MDg2MCwwMDAwMDBiODAwMDAwMTc3MDI0NWJhMmEwMDAwMDE3NmRlNThkN2E3",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbvPjXfc8G9S/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXbvPjXfc8G9S"
+    },
+    {
+      "collaborative": false,
+      "description": "Bogotá, Abril 3, 4 y 5. Foto: Guns N' Roses",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWUfEH87eTMRz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUfEH87eTMRz",
+      "id": "37i9dQZF1DWUfEH87eTMRz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000003d7d10fda411af518e19b6d04",
+          "width": null
+        }
+      ],
+      "name": "Festival Estéreo Picnic 2020",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU4MjI2NjgxNSwwMDAwMDAxNTAwMDAwMTcwNjY3MzkyMzAwMDAwMDE2ZTgzM2Y1NzFh",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWUfEH87eTMRz/tracks",
+        "total": 69
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWUfEH87eTMRz"
+    },
+    {
+      "collaborative": false,
+      "description": "Deja que tu corazón se rinda ante la música romántica de antaño.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7YVXCfBlE4D"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7YVXCfBlE4D",
+      "id": "37i9dQZF1DX7YVXCfBlE4D",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000003cc09ec57daa4daa115ea21d2",
+          "width": null
+        }
+      ],
+      "name": "Boleros",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTYxMTAwNjYwMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7YVXCfBlE4D/tracks",
+        "total": 210
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DX7YVXCfBlE4D"
+    },
+    {
+      "collaborative": false,
+      "description": "La sutileza del piano para enriquecer tu espacio.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXa8Xx03D65RT"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa8Xx03D65RT",
+      "id": "37i9dQZF1DXa8Xx03D65RT",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f000000031cc26a7475ea3f18e8d9056a",
+          "width": null
+        }
+      ],
+      "name": "Piano de Fondo",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTYxMTAwNjYyOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXa8Xx03D65RT/tracks",
+        "total": 300
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXa8Xx03D65RT"
+    },
+    {
+      "collaborative": false,
+      "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Tres Coronas",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2vnBrKB7FwM",
+      "id": "37i9dQZF1DX2vnBrKB7FwM",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f0000000349779c271b04925605441186",
+          "width": null
+        }
+      ],
+      "name": "RAPública de Colombia",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTYwODI3MzAwMCwwMDAwMDAyMzAwMDAwMTc2NzQ4YTc2OTAwMDAwMDE3MTg2NmZkNDlj",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2vnBrKB7FwM/tracks",
+        "total": 85
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DX2vnBrKB7FwM"
+    },
+    {
+      "collaborative": false,
+      "description": "The latest and greatest. Lo nuevo y lo esencial.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSROHH044jKI"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSROHH044jKI",
+      "id": "37i9dQZF1DWSROHH044jKI",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000003061a7a17e268e0f03680cc46",
+          "width": null
+        }
+      ],
+      "name": "This Is: Bomba Estéreo",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTU4MzQ4OTEwMCwwMDAwMDAwZDAwMDAwMTZlYjNkZjBkNGUwMDAwMDE3MGFmNGUyYjIw",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSROHH044jKI/tracks",
+        "total": 48
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWSROHH044jKI"
+    },
+    {
+      "collaborative": false,
+      "description": "Música ideal para tomar el té y relajar.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTSkZ0cxkrLT"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTSkZ0cxkrLT",
+      "id": "37i9dQZF1DWTSkZ0cxkrLT",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f000000035c483e435e6ccb318f137925",
+          "width": null
+        }
+      ],
+      "name": "Té Para Tres",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTYxMTAwNjYwOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTSkZ0cxkrLT/tracks",
+        "total": 90
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWTSkZ0cxkrLT"
+    },
+    {
+      "collaborative": false,
+      "description": "The best season of the year, wherever you are!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXdnGF35OawbN"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdnGF35OawbN",
+      "id": "37i9dQZF1DXdnGF35OawbN",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f000000033df8d7968bb793754b0e3702",
+          "width": null
+        }
+      ],
+      "name": "Verano Forever",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTYxMTAwNjU5NiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXdnGF35OawbN/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DXdnGF35OawbN"
+    },
+    {
+      "collaborative": false,
+      "description": "Arreglos de cámara que embelezan clásicos del pop y rock.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWST1lak1oDG1"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWST1lak1oDG1",
+      "id": "37i9dQZF1DWST1lak1oDG1",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f0000000382b8418f9e6ed2e37982fc2a",
+          "width": null
+        }
+      ],
+      "name": "Sinfonía Hipster",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": null,
+      "snapshot_id": "MTYxMTAwNjYzMSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWST1lak1oDG1/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWST1lak1oDG1"
+    }
+  ]
+}

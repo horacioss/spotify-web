@@ -1,26 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from "react";
+//import { getArtistData } from "./api/getArtist";
+import Artist from "./Artist/Artist";
+import { ArtistProps } from "./types";
+import artist from "./data/artist.json";
 
-function App() {
+const App: React.FC = () => {
+  //const [artistData, setArtistData] = useState<ArtistProps>();
+  const artistData: ArtistProps = artist;
+  //useEffect(() => {
+  //const data = async () => {
+  //setArtistData(await getArtistData());
+  //};
+  //data();
+  //}, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div>{artist ? <Artist artist={artistData} /> : <div>No Data</div>}</div>
   );
-}
+};
 
 export default App;
